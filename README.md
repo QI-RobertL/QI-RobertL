@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./profile-hero-light.svg">
-  <img src="./assets/profile-hero-dark.svg" alt="The Binary Shadow. Robert L. Systems, security, networking and infrastructure." width="100%">
+  <img src="./profile-hero-dark.svg" alt="QInformed. Robert Loyd Systems, security, networking and infrastructure." width="100%">
 </picture>
 
 # Robert L.
