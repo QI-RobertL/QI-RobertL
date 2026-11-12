@@ -1,12 +1,12 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-hero-light.svg">
   <img src="./assets/profile-hero-dark.svg" alt="The Binary Shadow. Robert L. Systems, security, networking and infrastructure." width="100%">
 </picture>
 
 # Robert L.
 
-**Founder and CTO at [QInformed](https://qinformed.com/). Founder and CEO at [Binary Shadow](https://bshadow.us/).**
+**Founder and CTO at [QInformed](https://qinformed.com/)**
 
 Deep in the stack.
 
@@ -16,7 +16,7 @@ Operating-system internals, exploit development, vulnerability research, memory 
 
 I come from a small European town located in the mountains.
 
-Military family, which prompted me to leave the keyboard and try serving my country. 
+Military family, which prompted me to leave the keyboard and serve my country. 
 Decided to leave for the private sector, though stayed close by.
 
 My work spans cybersecurity, systems engineering, infrastructure, software, networking and technical leadership.
